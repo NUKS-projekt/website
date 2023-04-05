@@ -1,0 +1,88 @@
+  .img_1 {
+    height: 70px;
+    width: 135px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+  
+  .extra-margin {
+    margin-top: 200px;
+  }
+  
+  .btn {
+    width: 350px;
+    margin-top: 20px;
+  }
+  .btn:hover{
+
+    opacity: 0.8;
+  }
+  
+  
+  form {
+    border: 1px solid lightgrey;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 16px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+  }
+  
+  #words_1 {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  #words_2 {
+    font-weight: bold;
+    font-size: 14px;
+  }
+    
+  #words_3 {
+    font: 7px;
+  }
+  
+  .sign-in {
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .conditions {
+    font-size: 13px;
+    color: blue;
+    padding-right: 13px;
+    margin-top: 30px;
+    z-index: 2;
+   
+  }
+  .conditions:hover{
+
+    text-decoration: underline;
+  }
+  
+  .footer_1 {
+    width: max;
+    height: 350px;
+    background-color: #fff;
+    margin-top: 30px;
+    
+  }
+  
+  #exampleCheck1 {
+    margin-left: 3px;
+    margin-top: 11px;
+  }
+  
+  
+  #sign-in {
+    margin-bottom: 10px;
+  }
+  
+  #grey-button {
+    background-color: lightgrey;
+    border: black;
+      
+    
+  }
+  
